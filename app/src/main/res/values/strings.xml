@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Magic</string>
+
+    <string name="believe">BELIEVE</string>
+    <string name="faith">FAITH</string>
+    <string name="fall">FALL</string>
+    <string name="forgiveness">FORGIVENESS</string>
+    <string name="healing_pain">HEALING PAIN</string>
+    <string name="lonliness">LONLINESS</string>
+    <string name="love">LOVE</string>
+    <string name="motivational">MOTIVATIONAL</string>
+    <string name="peace">PEACE</string>
+    <string name="strength">STRENGTH</string>
+
+    <string name="firstPageQuote">Walk with Jesus Christ everyday by reading his words</string>
+    <string name="privacyPolicyText">By continuing you accept our Privacy policy.</string>
+
+
+
+</resources>
